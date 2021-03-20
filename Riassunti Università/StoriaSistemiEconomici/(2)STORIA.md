@@ -1,4 +1,4 @@
-# STORIA 
+# STORIA(2) 
 
 [TOC]
 
@@ -144,9 +144,9 @@ Le città diventano dei centri di innovazione, e centri dove si fanno contratti 
 
 La commenda ha come fine il commercio via mare. Un commendatore da le merci ad un capitano, il capitano prende la nave e va a scambiare in nord africa le robe.
 
-*****
+***
 
-## Un Istituzione di antico regime: le corporazioni
+### Un Istituzione di antico regime: le corporazioni
 
 - Corporazioni, gilde, universitates: funzioni economiche, politiche e sociali
 - Corporazioni e imprese
@@ -180,9 +180,9 @@ So che se compro un tessuto di lana fiorentino era certificata dalle corporazion
 
 CI sono delle innovazioni che influenzano l'attività economica, il cambiamento è importante in campo agricolo consentendo di produrre i beni alimentari fondamentali, e una volta fatto quello posso liberare le risorse in altri settori.
 
-*****
+***
 
-## Anche nel Medioevo c'è innovazione tecnica...
+### Anche nel Medioevo c'è innovazione tecnica...
 
 **Gli occhiali,** (Tommaso da Modena, il cardinale ugo di Provenza- Treviso, affresco, 1352).
 
@@ -217,7 +217,7 @@ In epoca medevale c'era quindi l'ingegnosità di inventare nuove macchine. Alcun
 
 
 
-## FORSE DI CAMBIAMENTO IN AGRICOLTURA
+## FORZE DI CAMBIAMENTO IN AGRICOLTURA
 
 Principali innovazioni:
 
@@ -227,9 +227,9 @@ Principali innovazioni:
 - Maggior impiego del ferro per gli strumenti agricoli
 - Diffusione dell'allevamento e di nuove colture
 
-*****
+***
 
-# LA ROTAZIONE TRIENNALE
+### La Rotazione triennale
 
 3 terrenti differenti con diversi utilizzi
 
@@ -245,9 +245,9 @@ Principali innovazioni:
 
 ![rotazione](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\rotazione.jpg)
 
-*****
+***
 
-## Dall'agricoltura alla diversificazione produttiva
+### Dall'agricoltura alla diversificazione produttiva
 
 
 
@@ -261,9 +261,9 @@ La rotazione triennale e le altre innovazioni portarono:
 
 Con il crescere della produzione crescono le eccedenze che dovevano essere vendute in città, che creano un nuovo ecosistema di mestieri.
 
-*****
+***
 
-## L'industria prima dell'industrializzazione
+### L'industria prima dell'industrializzazione
 
 Nasce una domanda di beni diversi più semplici del modno rurale, cambia l'offerta di lavoro e di oggetti.
 
@@ -411,7 +411,7 @@ Caffè, canna da zucchero
 
 **AMERICA**
 
-SIfilide
+Sifilide
 
 Tacchini, criceti
 
@@ -423,9 +423,197 @@ Mais, patate, cacao, tabacco, pomodori
 
 IL baricentro del commercio europeo si sposta dal Mediterraneo al Mare del Nord e all'Atlantico, ai prodotti di lusso si affiancano prodotti di largo consumo.
 
+Bisognava far funzionare sia le miniere che le piantagioni.
+
 Come cambiano i fattori:
 
-- la terra (scarsa in europa, abbondante nel nuovo mondo)
+- la terra (scarsa in Europa, abbondante nel nuovo mondo)
 - Il Lavoro (viceversa)
 - Una crescita fondata (anche) sullo sfruttamento: la tragedia della tratta degli schiavi (12,5 milioni di esseri umani coinvolti nella tratta transatlantica tra  1501 e 1867)
 
+***
+
+## SCHIAVITU' (1501-1867)
+
+
+
+La forza lavoro per le miniere e per le piantagioni di cotone era presa negli schiavi etiopi.
+
+Usanza già greca poi sfruttata in larga scala per avere la forza lavoro.
+
+12.5 milioni di africani vengono costretti ad attraversare l'oceano atlantico e a lavorare in America. 
+
+La tratta degli schiavi funzionava sulla base del "triangolo atlantico".
+
+![TriangoloAtlantico](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\TriangoloAtlantico.PNG)
+
+
+
+Un circuito commerciale molto redditizio formato tra Europa africa e continente Americano.
+
+
+
+Procedura di tratta di schiavi:
+
+1. Dai porti europei partiva una nave che portava con se alcuni beni, tipicamente, tessuti specchi, piccoli gioielli, armi e alcool.
+
+2. Li portava nel continente africano 
+3. Con il ricavo compravano gli schiavi.
+
+4. Si attraversava l'oceano atlantico.
+5. Arrivati nelle aree di vendita degli schiavi:
+   - Coste Caraibiche
+   - Brasile
+   - Sud est americano
+
+6. Con i profitti compravano i beni delle aree locali:
+   - Tabacco
+   - Cotone 
+   - Sughero 
+   - Melassa
+7. Li portavano in Europa
+
+ 
+
+Portando in Europa questi beni e completando il giro si poteva vivere di rendita.
+Questo spiega perché questo traffico di persone fosse così allettante nel mondo commerciale.
+
+***
+
+### CRONOLOGIE NELLA TRATTA DEGLI SCHIAVI
+
+![CronolgieTrattaSchiavi](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\CronolgieTrattaSchiavi.PNG)
+
+- (1451-1600) Inizialmente i flussi di schiavi erano delimitati solamente nel Sudamerica, ma c'era una parte di schiavi che veniva portata in Europa.
+- (1601-1700) Inizia a prevalere come percorso quello verso il Sudamerica dato che iniziano ad aumentare le produzioni nelle piantagioni
+- (1701-1800) Si aggiunge al gigantesco traffico di schiavi del Sudamerica anche il Nord-America
+- (1811- 1870) Il Fenomeno della tratta degli schiavi inizia a fermarsi dato che , per esempio si costituisce un movimento antischiavista in Inghilterra e comincia ad esserci un dibattito negli stati uniti diventati ormai indipendenti
+
+
+
+> Alcuni autori sostengono che parte del ritardo dello sviluppo economico africano sia dovuto al fenomeno della tratta degli schiavi
+
+***
+
+## IL COMMERCIO DI METALLI PREZIOSI
+
+Uno dei beni fondamentali che andavano ad essere scambiati era l'argento e l'oro.
+
+Una volta il valore della valuta era dato dal valore intrinseco della stessa, ovvero dal contenuto di metalli preziosi al suo interno
+
+**IMPORTAZINI SPAGNOLE DI METALLI PREZIOSI**
+
+![ImportazioneMetalliPreziosi](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\ImportazioneMetalliPreziosi.PNG)
+
+
+
+Questo sistema garantiva che le monete potevano essere utilizzate ovunque, bastava sapere il contenuto in metalli preziosi.
+
+Lo svantaggio di questo sistema però era che la quantità di moneta in circolazione dipendeva dalle capacità delle miniere.
+
+Si sfruttano quindi al massimo le capacità delle miniere che però iniziano ad esaurirsi.
+
+La Scoperta dell'America con i suoi giacimenti minerari rappresenta un enorme evoluzione dal punto di vista del commercio di oro e argento, con una monetizzazione.
+
+La monetizzazione contribuisce a rendere più efficaci gli scambi in Europa.
+
+Questo ritrovamento di miniere da parte degli spagnoli causa invidia da parte delle altre potenze economiche che cercano nuove miniere.
+
+PERCHE' NON ATTACCARE LE NAVI SPAGNOLE?
+
+Nascono i corsari inglesi e olandesi.
+
+***
+
+### EFFETTI DELL'INCREMENTO DELLA MONETA IN CIRCOLAZIONE
+
+Questa diffusione dei metalli preziosi è un fattore di inflazione, di fatto aumentano i livelli dei prezzi.
+
+Grazie alle spese belliche in Italia, Germania e Paesi Bassi, al commerci e al contrabbando, i metalli preziosi si diffondono in tutta Europa, causando un aumento dei prezzi generalizzato.
+
+Teoria quantitativa della moneta (Equazione di Irwing Fisher)
+$$
+MV = PQ
+$$
+M= Quantità di moneta;
+V = Velocità di circolazione della moneta
+P = livello dei prezzi. 
+Q = quantità delle transazioni.
+
+Evidentemente un aumento di (quantità di moneta)M provoca un aumento di (Prezzo)P.
+
+> **Non solo l'aumento di moneta. ma anche la crescita generale della popolazione e i limiti della produttività agricola provocarono un forte aumento dei prezzi.**
+
+In questa situazione l'inflazione è causata:
+
+- dall'aumento della moneta in circolazione
+- dalla crescita della popolazione
+
+***
+
+***"Perché l'inflazione è una brutta bestia?"***
+
+- Perché diminuisce il potere di acquisto
+
+- Genera uno spostamento di potere dai creditori ai debitori.
+- In un economia di mercato i prezzi orientano a consumo e investimento, i **prezzi** quindi devono essere costantemente **Stabili**. Quando l'inflazione è rapida e prolungata i prezzi volano in alto e in basso.
+
+***
+
+### INFLAZIONE CAUSATA DALL'AUMENTO DELLA POPOLAZIONE
+
+![InflazionePErPOPOLAIONE](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\InflazionePErPOPOLAIONE.PNG)
+
+*I prezzi dei prodotti alimentari crescono più degli altri, per l'insufficiente crescita della produttività dell'agricoltura a fronte dell'aumento della domanda*
+
+In quel periodo c'era un grande aumento della popolazione e una produzione locale scarsa di generi alimentari, motivo per cui in generale i prezzi degli alimentari AUMENTA TANTO. Questo aumento è causato non dall'aumento monetario, ma dall'aumento della popolazione
+
+***
+
+# CULTURA MEDIEVALE
+
+**Medioevo, umanesimo e riforma**:
+
+- Nel Medioevo c'è un **recupero di conoscenze importanti della cultura classica**, grazie anche alla mediazione araba (trasmissione del patrimonio conoscitivo del mondo classico), conoscenze pratiche
+- Sviluppo di alcuni **concetti fondamentali della cultura occidentale**
+  - Valutazione del diritto, e dell'individuo come portatore di diritti naturali
+- **Forte peso della dimensione religiosa**
+- Con il XV secolo, **affermazione dell'umanesimo** (corrente di pensiero che punta al recupero della tradizione classica) e quindi attenzione all'aspetto materiale della vita a scapito di quella spirituale, quindi presa di coscienza economica.
+- XVI secolo: **la riforma protestante** (31 ottobre 1517: le 95 tesi di Lutero)
+  - Visione diversa del rapporto tra dio e i fedeli
+  - Non esistono gerarchie ecclesiastiche
+  - Interpretazione Individuale delle sacre scritture
+  - Concetto diverso della salvezza dell'anima
+    - Per i CATTOLICI, si va in paradiso se mi comporto bene in terra vado in paradiso
+    - Se sono PROTESTANTE,  in realtà non possiamo pretendere che quello che facciamo noi determini il nostro destino. Alla fine il destino è segnato ed è immutabile. Se si ha successo nella vita terrena allora è probabile che io sia destinato al paradiso. (MAX WEBER) la crescita del protestantesimo spinge la crescita del capitalismo.
+
+***
+
+### VISIONE DELLA VITA NEL MEDIOEVO
+
+![VIZIEVIRTU](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\VIZIEVIRTU.PNG)
+
+Precarietà nella vita in bilico tra vizi e virtù, sospeso tra i due poli l'uomo deve trovare un equilibrio. 
+
+L'uomo è su un albero e la morte lo sta segando via, quando cade, come si è comportato decide dove andrà.
+
+***
+
+## ANALISI ECONOMICA DEI TEOLOGI DEL MEDIOEVO
+
+I teologi si sono messi a studiare le tecniche economiche per capire in pieno quella che era l'economia dell'epoca.
+
+Es. Testo di Pietro di Giovanni Olivi (Francescano 1248-1298) su Commercio e profitto
+
+> “È infatti noto che molte cose mancano a una città o a un territorio che, invece, abbondano in un’altra. D’altronde coloro che sono impiegati nell’agricoltura o in altri lavori manuali, o in politica o nell’esercito, non possono facilmente viaggiare nei diversi paesi nei quali si possono acquistare le cose che mancano nel proprio per poi importarle. In effetti sono pochi quelli che hanno le capacità e le competenze necessarie a questa professione, per cui è del tutto lecito che la comunità abbia come propri addetti a questo compito quelli che ne sono capaci, ai quali è dovuto in ogni caso come compenso **un certo profitto**.”
+
+***
+
+ In generale, nel periodo 1450-1650 ci fu diffusione tecnologica, ma, salvo alcune eccezioni, questa non avvenne con ritmi incalzanti. Il settore manifatturiero restava largamente dipendente da un’agricoltura a bassa produttività. 
+
+- Tra le innovazioni fondamentali: 
+  - 1455: stampa a caratteri mobili: la Bibbia di Johann Gutenberg. Incentiva l'alfabetizzazione, grazie al bisogno per i protestanti c
+  - XV-XVI: nuove tecniche di navigazione e scoperte geografiche (innovazione in senso schumpeteriano) 
+- Affermazione stati nazionali, umanesimo, riforma, spostamento baricentro geografico
+
+Queste invenzioni preparano il terreno. L'affermazione degli Stati Nazionali rappresenta l'inizio del periodo di industrializzazione, le riforme permettono

@@ -1,5 +1,9 @@
 # LE FONTI DEL DIRITTO
 
+[toc]
+
+
+
 *"una collinetta"*
 
 Il Capitolo rispende ad una domanda: **"Come si producono le regole giuridiche?"**
@@ -357,23 +361,11 @@ Tendenzialmente nello stato contemporaneo si tende a produrre norme generiche ch
 
 > Se una norma prevede che è vietato lavorare in locali sotterranei e un altra norma specializzata specifica l'eccezione nel caso in cui ci siano i mezzi necessari, domina la norma speciale.
 
-# APPUNTI
-
-
-
-*****
-
-
-
-*****
-
 Criterio della specialità.
 
 Nello statuto della regione autonoma di trento è scritta una diversa ripartizione di competenza.
 
-Che succede alla nostra regione.
-
-Tripartizione della competenza legislativa
+Esiste infatti una tripartizione della competenza legislativa
 
 - Stato
 - Regione
