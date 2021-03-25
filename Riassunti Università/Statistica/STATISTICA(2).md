@@ -216,7 +216,7 @@ La mediana quindi bipartisce i dati in minori e maggiori.
 
 La mediana funziona diversamente a seconda del numero di elementi dello studio:
 
-
+​	
 
 Per N dispari la mediana occupa il posto
 $$

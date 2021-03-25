@@ -36,7 +36,7 @@ In pratica il diritto è un insieme di regole di condotta, esse regolano il comp
 
 <h2 style="color:#F25C54">DEFINIZIONE DI ORDINAMENTO GIURIDICO</h2>
 
-l'**ORDINAMENTO GIURIDICO** è l'insieme aggregato delle **NORME GIURIDICHE** e delle **ISTITUZIONI** presenti in uno stato in un preciso momento.
+l'**ORDINAMENTO GIURIDICO** è l'insieme aggregato delle **NORME GIURIDICHE** e delle **ISTITUZIONI** *presenti in uno stato* in un preciso momento.
 
 
 

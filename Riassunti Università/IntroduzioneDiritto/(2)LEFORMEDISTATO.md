@@ -158,9 +158,9 @@ Da questa definizione possiamo osservare dal punto di vista storico le forme di 
 
 ## ORDINE GIURIDICO MEDIEVALE
 
-Lo Stato moderno nasce tra XV e XVII secolo in Europa, il potere era organizzato secondo gli assetti dell'ordinamento giuridico definito feudale o Patrimoniale.
+Lo Stato moderno nasce tra XV e XVII secolo in Europa, il potere era organizzato secondo gli assetti dell**'ordinamento giuridico definito feudale o Patrimoniale.**
 
-**ORDINAMENTO PATRIMONIALE**: Rete di rapporti privatistici che lo reggevano, in cui popolo e territorio erano parte del patrimonio del re. In questa forma di stato era inesistente la distinzione tra diritto pubblico e diritto privato.
+**ORDINAMENTO PATRIMONIALE**:  popolo e territorio erano parte del patrimonio del re. In questa forma di stato era inesistente la distinzione tra diritto pubblico e diritto privato.
 
 In questa forma di stato esisteva il **PARTICOLARISMO GIURIDICO**: Alcuni membri interno allo stato patrimoniale non subivano l'effetto della sovranità del re perché si auto amministravano.
 
@@ -200,36 +200,48 @@ Lo Stato liberale però è definito anche **STATO MONOCLASSE**, questo perché l
 
 ### IL PRINCIPIO DI LEGALITA' E IL RUOLO DELLA LEGGE
 
-Principio centrale. Secondo esso ogni atto dei pubblici poteri deve trovare fondamento e limiti in una norma previamente adottata.
+Principio centrale per il funzionamento di questo ordinamento giuridico. Secondo esso:
+
+***"Ogni atto dei pubblici poteri deve trovare fondamento e limiti in una norma previamente adottata."***
+
+
 
 - **Con lo Stato Assoluto**: *Rex facit Legem*: diritto posto dal titolare del potere
 - **Con lo Stato di Diritto**: Lex facit Regem: il diritto crea il potere
 
-Nel secondo caso il titolare del potere è tale perchè le leggi glielo conferiscono. Legittimazione del potere LEGALE-RAZIONALE.
+  > Legittimazione del potere LEGALE-RAZIONALE: Il titolare del potere è tale perché le leggi gli fanno assumere questo potere. 
 
-La legge nello STATO LIBERALE era caratterizzata da generalità e astrattezza:
+La **legge** nello STATO LIBERALE era caratterizzata da **generalità e astrattezza**:
 
 - **Norme generali**: che si applicano a tutti.
-  - **Norme particolari**: si applicano ad un gruppo determinato.
+
+  > Generalità e astrattezza della legge si collegano strettamente alla concezione del principio di uguaglianza propria di tale forma di stato.
+
+  > **Norme particolari**: si applicano ad un gruppo determinato.
+
 - **Norme Astratte**: suscettibili di ripetute applicazioni nel tempo.
-  - **Norme concrete**: esauriscono l'efficacia ad una sola applicazione
+
+  > **Norme concrete**: esauriscono l'efficacia ad una sola applicazione
+
+***
+
+#### (Principio di Legalità) PRINCIPIO DI UGUAGLIANZA
+
+Con l'adozione di leggi generali e astratte si impedivano trattamenti differenziati a riguardo della popolazione.
+
+> L'art 1 della **dichiarazione dei diritti dell'uomo e del cittadino** afferma che gli uomini nascono e rimangono liberi e uguali nei diritti.
+
+Questo introduce una nuova idea, Differentemente dallo stato Assoluto si passa **da** una concezione della **popolazione suddivisa in ceti** ad un **univocità della tipologia del soggetto** singolo dello stato.
 
 <hr>
-IL carattere della generalità e astrattezza della legge si collega strettamente alla concezione del principio di uguaglianza propria di tale forma di stato.
+#### (Principio di legalità) PRINCIPIO DELLA GIUSTIZIABILITA'
 
-L'art 1 della dichiarazione dei diritti dell'uomo e del cittadino afferma che gli uomini nascono e rimangono liberi e uguali nei diritti, introduce una nuova idea, Differentemente dallo stato Assoluto si passa **da** una concezione della **popolazione suddivisa in ceti**,
+Con la regola di derivazione degli atti giuridici da norme si potevano classificare gli atti di applicazione della legge:
 
-ad un **univocità della tipologia del soggetto** singolo dello stato.
-
-<hr>
-
-### PRINCIPIO DELLA GIUSTIZIABILITA'
-
-Si impedivano di fatto trattamenti differenziati a riguardo della popolazione.
-
-In questo modo si può infatti classificare gli atti di applicazione della legge, questi di fatto sono misurabili, nel senso che qualora siano difformi dalle norme generali e astratte questi atti sono viziati e per questo possono essere annullati da un giudice imparziale. 
+Questi di fatto diventarono misurabili, nel senso che qualora siano difformi dalle norme generali e astratte questi atti sono viziati e per questo possono essere annullati da un giudice imparziale. 
 
 <hr>
+#### (Principio di Legalità) LEGGE COME DEMOCRAZIA RAPPRESENTATIVA
 
 La legge inoltre era espressione della volontà generale in quanto riprendendo le parole dell'art 6 della Dichiarazione del 1789:
 
@@ -237,19 +249,20 @@ La legge inoltre era espressione della volontà generale in quanto riprendendo l
 
 Nello **Stato di diritto** si scelse la **democrazia rappresentativa**, nella quale la volontà dei cittadini si esprime indirettamente, attraverso rappresentanti eletti.
 
-La possibilità di realizzare forme di **democrazia diretta** (ove i cittadini si esprimono senza intermediari nell'adozione delle decisioni politiche)
+> La possibilità di realizzare forme di **democrazia diretta** (ove i cittadini si esprimono senza intermediari nell'adozione delle decisioni politiche) fu esclusa per la moltitudine di persone che avrebbero dovuto esprimersi.
 
 La **LEGGE** era la produzione di un organo, **IL PARLAMENTO**, in cui almeno una delle 2 camere era elettiva.
 
 <hr>
+#### (Principio della legalità) NAZIONE
 
 L'espressione **Nazione** però era un concetto limitato solamente alla borghesia dato il **suffragio limitato**.
 
 Come conseguenza di tale artificio era possibile:
 
-- Individuare la nazione, ovvero un insieme omogeneo di soggetti uniti da un volere comune
-- fare del Parlamento l'organo rappresentativo della nazione
-- Configurare la legge come atto che esprimeva la volontà generale, ovvero la volontà della nazione
+- Individuare la **nazione**, ovvero un insieme omogeneo di **soggetti uniti da un volere comune**
+- fare del **Parlamento l'organo rappresentativo** della nazione
+- Configurare la **legge come atto che esprimeva la volontà generale**, ovvero la volontà della nazione
 
 <hr>
 
@@ -257,15 +270,15 @@ Come conseguenza di tale artificio era possibile:
 
 Collegato al principio di legalità è il secondo istituto tipico dello Stato di diritto, la **nozione di Costituzione in senso moderno**: 
 
-La Costituzione è un atto giuridico vincolante per tutti i soggetti dell'ordinamento, che serve a garantire i diritti e costituisce il fondamento di tutti i poteri.
+**La Costituzione è**: *un atto giuridico vincolante per tutti i soggetti dell'ordinamento, che serve a garantire i diritti e costituisce il fondamento di tutti i poteri*.
 
-Essa rappresenta un eleento chiave per comprendere la legittimazione del potere in questa forma di Stato, quando si consideri che sulla base del principio di legalità i titolari del potere sono tali perché esistono norme attributive del potere del potere.
+Essa rappresenta un elemento chiave per comprendere la legittimazione del potere in questo tipo di Stato.
 
-La Costituzione come atto normativo p idonea a garantire i diritti e costituisce il fondamento della legittimazione dei poteri.
+Grazie al principio di legalità che garantisce il potere attraverso le norme la nozione di Costituzione è idonea a garantire innanzitutto i diritti e successivamente la fonte di legittimazione. 
 
-La **COSTITUZIONE** è un atto del **POTERE COSTITUENTE**
+*La **COSTITUZIONE** è un atto del **POTERE COSTITUENTE***, esso è il potere che da vita e valida la Costituzione, l'atto sul quale si fondano i poteri costitutivi.
 
-il **POTERE COSTITUENTE** è il potere che pone la costituzione ovvero l'atto sul quale si fondano i poteri costitutivi.
+> Il Potere Costituente è **l'unico ente "Sciolto dal diritto"**
 
 > ESEMPI DI POTERI COSTITUENTI:
 >
@@ -273,15 +286,11 @@ il **POTERE COSTITUENTE** è il potere che pone la costituzione ovvero l'atto su
 > - Concessione della Costituzione da Parte del Monarca: **Costituzione Ottriata**
 >   - Statuto albertino nel 1848
 
-Dunque il potere costituente è diverso dai **poteri costituiti**.
+Per **POTERI COSTITUTIVI** si intendono i poteri che si fondano sulla Costituzione e che quindi incontrano i limiti che questa pone loro
 
-Per **POTERI COSTITUITI** si intendono i poteri che si fondano sulla Costituzione e che quindi incontrano i limiti che questa pone loro
+***
 
-Il POtere Costituente è **l'unico ente "Sciolto dal diritto"**
-
-Nello Stato liberale la Costituzione si rivelò incapace di regolare la legge che assume la posizione di fonte suprema e onnipotente.
-
-Stato LIberale di Diritto anche come Stato Legislativo, perchè basato molto sul Legiferare del parlamento che andava anche a modificare la costituzione creando costituzioni flessibili
+Nello Stato liberale la Costituzione si rivelò incapace di essere la legge che assume la posizione di fonte suprema e onnipotente. Perché lo **Stato Liberale di Diritto** essendo **Stato Legislativo**, quindi **basato molto sul Legiferare del parlamento** che andava anche a modificare la costituzione creando **costituzioni flessibili**
 
 <hr>
 
@@ -299,7 +308,7 @@ Con il termine **FUNZIONE** si intende un attività preordinata ad un fine, in p
 - **Funzione Esecutiva (GOVERNO)**: Applicazione generale e astratta delle leggi.
 - **Funzione Giurisdizionale (MAGISTRATURA)**: Applicazione delle leggi con esclusivo riferimento alle controversie tra parti.
 
-Quel che veramente interessava era distinguere il potere legislativo dai poteri che tali norme erano chiamati ad applicare in modo subalterno, qualsi ancillare: esecutivo e giurisdizionale.
+L'importare era separare chi faceva le norme e chi le metteva in pratica: potere esecutivo e giurisdizionale.
 
 In tal modo il Parlamento ("Nuovo Sovrano") era in grado di vincolare e tenere sotto tutela il "vecchio sovrano", ovvero l'ex monarca assoluto, i suoi apparati amministrativi e i suoi giudici.
 
@@ -307,7 +316,7 @@ In tal modo il Parlamento ("Nuovo Sovrano") era in grado di vincolare e tenere s
 
 ### PRINCIPIO DELLA TIPICITA' DEGLI ATTI
 
-Sulla base del principio di legalità e di separazione dei poteri si deliniò un ulteriore principio, quello della **TIPICITA' DEGLI ATTI**, secondo il quale ogni atto ha una forma tipica in quanto prodotto a seguito di un certo procedimento. Alla forma è collegata la capacità dell'atto di produrre effetti giuridici, che costituisce a sua volta una manifestazione della sovranità statale.
+Sulla base del principio di legalità e di separazione dei poteri si delineò un ulteriore principio, quello della **TIPICITA' DEGLI ATTI**, secondo il quale ogni atto ha una forma tipica in quanto prodotto a seguito di un certo procedimento. Alla forma è collegata la capacità dell'atto di produrre effetti giuridici, che costituisce a sua volta una manifestazione della sovranità statale.
 
 - **L'atto del potere legislativo** si caratterizza per la **forza**, intesa come capacità di innovare l'ordinamento giuridico.
 
@@ -315,16 +324,16 @@ Sulla base del principio di legalità e di separazione dei poteri si deliniò un
 
 - **L'atto del potere giudiziario** produce **l'effetto del giudicato**, ovvero fa stato tra le parti del giudizio, in modo definitivo.
 
-La forma dell'atto p importante anche perché consente ai destinatari di conoscerlo, di comprenderne gli effetti e eventualmente di impugnarlo nella sede idoneo qualora adottato in violazione del principio di legalità
+La forma dell'atto è importante anche perché consente ai destinatari di conoscerlo, di comprenderne gli effetti e eventualmente di impugnarlo nella sede idoneo qualora adottato in violazione del principio di legalità
 
 # LA CRISI DELLO STATO LIBERALE DI DIRITTO
 
-Questa si verificò grazie all' **ALLARGAMENTO DEL DIRITTO DI VOTO**
+Questa si verificò grazie all'**ALLARGAMENTO DEL DIRITTO DI VOTO** nel XX secolo lo stato di diritto scala e viene sostituito.
 
-- Nel 1912 con Giolitti
-- 17 luglio 1919 Norme circa la capacità giuridica della Donna
-- Fino al 1946 Restano Escluse le Donne
-- La Maggiore età scende a 18 anni nel 1975
+> - Nel 1912 con Giolitti
+> - 17 luglio 1919 Norme circa la capacità giuridica della Donna
+> - Fino al 1946 Restano Escluse le Donne
+> - La Maggiore età scende a 18 anni nel 197
 
 #### PERCHE' LO STATO LIBERALE DI DIRITTO AVEVA IN SE DELLE CONTRADDIZIONI?
 
@@ -340,7 +349,7 @@ Questa si verificò grazie all' **ALLARGAMENTO DEL DIRITTO DI VOTO**
 
 Conseguentemente quindi alle mancanze dello stato Liberale **i ceti non borghesi volevano allargare il suffragio** e lo facevano partecipando ad associazioni e sindacati
 
-Per effetto di questo interventismo politico in Italia e in Germania lo **stato liverale di diritto viene sostituito da forme di stato autoritario o totalitario.**
+Per effetto di questo interventismo politico in Italia e in Germania lo **stato liberale di diritto viene sostituito da forme di stato autoritario o totalitario.**
 
 ## AUTORITARISMO E TOTALITARISMO
 

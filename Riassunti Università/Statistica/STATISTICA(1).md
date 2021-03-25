@@ -34,7 +34,7 @@ L'Obiettivo della statistica è quello di tradurre il mondo che ci circonda in d
 
 ## IL PROCESSO DI RILEVAZIONE
 
-E' il complesso delle operazioni che hanno lo scopo di acquisire informazioni, come rispose o misurazioni, su un insieme di elementi oggetto di studio.
+*"E' il complesso delle operazioni che hanno lo scopo di acquisire informazioni, come risposte o misurazioni, su un insieme di elementi oggetto di studio."*
 
 La **RILEVAZIONE SI SUDDIVIDE IN 2 TIPOLOGIE**:
 
@@ -97,7 +97,8 @@ Questo esempio ci porta in uno spezzettamento delle definizioni insite nel proce
 
   <hr>
 
-La DISTRIBUZIONE
+### La DISTRIBUZIONE di Frequenza
+
 $$
 X = (x1,x2,x3,x4,...,x_n)
 $$
@@ -177,7 +178,7 @@ Vado quindi a studiare i dati grezzi sintetizzati in una distribuzione di freque
 | 22     | 9                  | 28.13                 |
 | Totale | 32                 | 100                   |
 
-## Rappresentazione Caratteri quantitativi Discreti
+
 
 ![DiagrammaaAste](C:\Users\franc\Desktop\Riassunti Università\Immagini\DiagrammaaAste.PNG)
 

@@ -5,13 +5,6 @@ STATISTICA (3)
 ## VARIABILITA'
 
 Una media che può assumere lo stesso valore in 2 distribuzioni che hanno diverse modalità
-$$
-(2,4,6,)
-$$
-
-$$
-(4,4,4)
-$$
 
 Entrambe le distribuzioni hanno media 4, in una delle 2 la media è più forte OVVERO la seconda, perché con un parametro solo possiamo comprendere l'intera distribuzione.
 
@@ -64,8 +57,6 @@ Una misura di variabilità:
 > PLATONE dice che la varianza tra gli elementi è tanto in elementi che si vanno a presentare poco, invece è poca in elementi che si presentano spesso.
 
 Si constata che i caratteri tendono a differire tra i singoli secondo una legge.
-
-![RIAGLIODISPERSIONE]()
 
 <hr>
 

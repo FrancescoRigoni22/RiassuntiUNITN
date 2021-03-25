@@ -1,3 +1,5 @@
+
+
 # STATISTICA 4
 
 ***"Distribuzioni Bivariate"***
@@ -160,7 +162,7 @@ Il mondo regredisce verso la mediocrità.
 
 *****
 
-## Karl Pearson, allievo di Galson
+## PEARSON e SCATTER PLOT
 
 Pearson raccolse le altezze di 1078 padri e dei loro figli in età matura
 
@@ -180,4 +182,219 @@ La dispersione attorno alla retta indica la debolezza della relazione tra X e Y.
 
 ***"Come sintetizzare numericamente questa situazione?"***
 
- 
+***
+
+#### Baricentro
+
+il punto che ha per coordinate la media del carattere x e del carattere y.
+
+> A uno stesso baricentro corrispondono infiniti scatterplot
+
+Coppia di valori medi per i caratteri x e y
+
+ ![Baricentro](C:\Users\franc\Desktop\Riassunti Università\Immagini\Baricentro.PNG)
+
+***
+
+#### DISPERSIONE NELLE 2 DIREZIONI
+
+Aggiungiamo alla coppia di punti medi anche la coppia di scarti quadratici medi in x e in y.
+
+![DispersioneDirezioni](C:\Users\franc\Desktop\Riassunti Università\Immagini\DispersioneDirezioni.PNG)
+
+***
+
+Le sintesi 
+$$
+\mu_X , \sigma_X \\ \mu_Y,\sigma_Y
+$$
+***"Sono il centro della nuvole e la sua dispersione in orizzontale e in verticale, questi non dicono niente sull'intensità del legame"***
+
+2 scatter possono avere lo stesso centro e dispersioni ma mostrare un diverso grado di addensamento rispetto ad una retta.
+
+![ScatterUgualiMaDiversi](C:\Users\franc\Desktop\Riassunti Università\Immagini\ScatterUgualiMaDiversi.PNG)
+
+***
+
+### COEFFICIENTE DI CORRELAZIONE LINEARE R
+
+E' lo strumento per misurare l'intensità del legame lineare
+$$
+r \in [-1,1]
+$$
+![R1](C:\Users\franc\Desktop\Riassunti Università\Immagini\R1.PNG)
+
+![R2](C:\Users\franc\Desktop\Riassunti Università\Immagini\R2.PNG)
+
+
+
+#### CALCOLO DI R (RIFERIMENTO A COVARIANZA)
+
+$$
+r = \frac{\sigma_{XY}}{\sigma_X\sigma_Y}
+$$
+
+dove l'operatore al numeratore, ovvero la **Covarianza**
+$$
+\sigma_{XY} = \frac{\sum_i(x_i - \mu_X)(y_i - \mu_Y)}{N}
+$$
+Inoltre la covarianza va contenuta in un intervallo:
+$$
+\sigma_{XY} \in (-\infty;+\infty)
+$$
+A seconda del suo valore possiamo rilevare un diverso tipo di relazione:
+
+- $\sigma_XY = 0$ assenza di relazione lineare
+- $\sigma_{XY} > 0$ relazione diretta
+- $\sigma_{XY} < 0$ relazione inversa
+
+
+
+Si dimostra che:
+$$
+-\sigma_x\sigma_Y \leq \sigma_{XY} \leq +\sigma_X\sigma_Y
+$$
+
+
+Normalizzando quindi:
+$$
+-1\leq\frac{\sigma_{XY}}{\sigma_x\sigma_Y} = r\leq1
+$$
+R infatti misura **l'associazione tra X e Y**.
+
+A numeratore di r c'è una media di prodotti:
+
+$(x_i - \mu_x)(y_i-\mu_Y)$
+
+
+
+- Se predominano i prodotti + allora r  > 0
+
+![Prodottipiu](C:\Users\franc\Desktop\Riassunti Università\Immagini\Prodottipiu.PNG)
+
+- Se predominano i prodotti - allora r < 0
+
+![Prodottimeno](C:\Users\franc\Desktop\Riassunti Università\Immagini\Prodottimeno.PNG)
+
+---
+
+Per esempio prendiamo una tabella di dati con una distribuzione bivariata.
+
+![tabellabivariatafrequenze](C:\Users\franc\Desktop\Riassunti Università\Immagini\tabellabivariatafrequenze.PNG)
+
+
+$$
+\mu_X = 4; \space \mu_Y = 7 \\
+\sigma^2_X = \frac{\sum_ix_i^2}{N}-\mu_x^2 = 4
+\\
+\sigma^2_Y = \frac{\sum_iy_i^2}{N}-\mu_y^2 = 16
+$$
+Quindi unendo le 2 dispersioni:
+$$
+\sigma_{XY} = \frac{\sum_i(x_i - \mu_X)(y_i - \mu_Y)}{N} = \frac{16}{5} = 3.2
+$$
+
+$$
+r = \frac{\sigma_{XY}}{\sigma_x\sigma_y} = \frac{3.2}{2*4} = 0.4
+$$
+
+Di conseguenza. R misura la tendenza dei dati a raggrupparsi non in termini assoluti ma relativi!
+$$
+r = \frac{1}{N}\sum_i(\frac{x_i-\mu_X}{\sigma_X})(\frac{y_i - \mu_Y}{\sigma_Y})
+$$
+r è un numero puro
+
+Il valore assoluto di r è invariante per trasformazioni lineari di X e di Y (a+bX; c+dY , a, b, c, d $\in R$) 
+$$
+r_{XY} = r_{YX}
+$$
+
+
+***
+
+### UTILITA' COEFFICIENTE DI CORRELAZIONE LINEARE
+
+r è una misura molto utile in tutti i casi in cui lo scatter abbia una forma ovale:
+
+![FORMAOVALESCATTER](C:\Users\franc\Desktop\Riassunti Università\Immagini\FORMAOVALESCATTER.PNG)
+
+A volte r può essere una misura fuorviante e non opportuna:
+
+- quando ci sono outlier
+- quando c'è una relazione non lineare
+
+**A quel punto non è un coefficente idi correlazione lineare**
+
+***
+
+#### PARADOSSO DI ASCOMBE
+
+![ParadossoDiAscombe](C:\Users\franc\Desktop\Riassunti Università\Immagini\ParadossoDiAscombe.PNG)
+
+Escludo tutti tranne il primo perchè y non è correlato a x, quindi non è una distribuzione a ovale obliquo
+
+***
+
+### Correlazione tra medie o percentuali
+
+**I dati di Doll (1955)**
+
+| Paese         | Consumo di Sigarette | Tasso di mortalità (# morti su un milione) |
+| ------------- | -------------------- | ------------------------------------------ |
+| Australia     | 480                  | 180                                        |
+| Canada        | 500                  | 150                                        |
+| Danimarca     | 380                  | 170                                        |
+| Finlandia     | 1100                 | 350                                        |
+| Gran Bretagna | 1100                 | 460                                        |
+| Islanda       | 230                  | 60                                         |
+| Paesi Bassi   | 490                  | 240                                        |
+| Norvegia      | 250                  | 90                                         |
+| Svezia        | 300                  | 110                                        |
+| Svizzera      | 510                  | 250                                        |
+| Stati Uniti   | 1300                 | 200                                        |
+
+Si riferivano al Consumo pro capite nel 1930 e i tassi di mortalità registrati nel 1950.
+
+![DatiDollaFumo](C:\Users\franc\Desktop\Riassunti Università\Immagini\DatiDollaFumo.PNG)
+
+Il Coefficiente di correlazione lineare era r = 0.7
+
+
+
+R determinato a partire da percentuali o medie può essere fuorviante.
+
+Esempio:
+
+- Correlazione tra reddito e livello di istruzione per i residenti in Italia con età tra 25-54 anni, r;
+- Reddito medio e livello di istruzione medio per ogni regione e poi coefficiente di correlazione tra le coppie di medie regionali r' > r
+
+Perché?
+
+Perchè in ogni regione c'è una notevole variabilità attorno alla media...
+
+...dispersione che eliminiamo associando ad ogni regione le sua media!
+
+***
+
+### Correlazione e casualità
+
+Bambini:
+
+il numero di scarpe  sembra essere correlato alla capacità di dizione. **C'è una forte correlazione**
+
+Esiste un fattore di disturbo: l'età!
+
+
+
+Quando un bambino cresce:
+
+- impara più parole
+- ha una crescita nei piedi
+
+
+
+IL Coefficiente di correlazione lineare non protegge dai fattori di disturbo
+
+R misura la forza e il verso della relazione lineare tra X e Y questo è diverso da un nesso di casualità.
+
+Dunque in questo caso abbiamo **UNA CORRELAZIONE SPURIA**.
