@@ -162,24 +162,24 @@ Lo scambio libero e volontario di unità elementari dell'economia di mercato
 
 Due soggetti scambiano tra loro beni (uno dei quali spesso è il denaro).
 
-Lo fanno perchè:
+Lo fanno perché:
 
 - Devono soddisfare un bisogno specifico
 - In modo tale da aumentare l'utilità individuare alla fine dello scambio (faccio lo scambio solo se lo  reputo conveniente)
 
-Alla fine l'utilità di entrambi è accresciuta (Smith non usa il termine utilità che verrà introddotto dai marginalisti un secolo dopo)
+Alla fine l'utilità di entrambi è accresciuta (Smith non usa il termine utilità che verrà introdotto dai marginalisti un secolo dopo)
 
  Ho perciò interesse a comportarmi correttamente, se intendo interagire nuovamente o se ci sono punizioni formali per chi sgarra.
 
 Quanto più lo scambio è diffuso, tanto più conviene specializzarsi in un'attività definita (vale per le imprese e per i paesi)
 
-Quanto più i diritti di proprietà sno tutelati, tanto più ho un incentivo a produrre e a investire.
+Quanto più i diritti di proprietà sono tutelati, tanto più ho un incentivo a produrre e a investire.
 
-L'importanza delle regole formali e informali che fovernano l'interazione econmica
+L'importanza delle regole formali e informali che favoriscono l'interazione economica
 
 ### I sistemi istituzionali incidono sullo sviluppo economico di lungo periodo
 
-I sistemi politio- istituzionali possono essere suddivisi in 2 grandi gruppi
+I sistemi politi'co-istituzionali possono essere suddivisi in 2 grandi gruppi
 
 - quelli caratterizzati da istituzioni **ESTRATTIVE**
 - quelli caratterizzati da istituzioni **INCLUSIVE**
@@ -264,11 +264,11 @@ Tutte questo era basato anche sull'etica protestante e lo spirito del capitalism
 
 ### La Nascita dell'agricoltura
 
-Dall'8000 a.C: dopo centinaria di migliaia di anni l'uomo passa dallo stadio di cacciatore e raccoglitore a quello di agricoltore: cosa comporta ciò?
+Dall'8000 A.C: dopo centinaia di migliaia di anni l'uomo passa dallo stadio di cacciatore e raccoglitore a quello di agricoltore: cosa comporta ciò?
 
-### La rivoluzione del neolitivo e le sue conseguenze
+### La rivoluzione del neolitico e le sue conseguenze
 
-10.000-5.000 Ac - Domesticazione di piante e animali in Medio Oriente, Sudamerica
+10.000-5.000 A.C - Domesticazione di piante e animali in Medio Oriente, Sudamerica
 
 - Cambia il regime alimentare
 - Sedentarietà: villaggi stabili, poi città (**L'origine della civiltà**)
@@ -286,13 +286,13 @@ Dall'8000 a.C: dopo centinaria di migliaia di anni l'uomo passa dallo stadio di 
 
 ### Risultato
 
-Tasso medio di cresita si alza vertiginosamente.
+Tasso medio di crescita si alza vertiginosamente.
 
-# L'economia di entivo regime
+# L'economia di antico regime
 
-I Tratti salienti delle economie europee Tradizionali
+I Tratti salienti delle economie europee Tradizionali.
 
-Le trasformazioni sull'rganizzazione produttiva europea nel contesto del vecchio regime economico
+Le trasformazioni sull'organizzazione produttiva europea nel contesto del vecchio regime economico
 
 Le conseguenze economiche delle scoperte geografiche.
 

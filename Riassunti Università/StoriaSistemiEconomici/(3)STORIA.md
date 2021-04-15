@@ -217,13 +217,13 @@ Nel Common law la legge si basa sui fatti e quindi sulle sentenze fatte in prece
 
 ***"RIVOLUZIONE AGRARIA"***
 
-Trasformazione dei rapporti di proprietà che ha avuto luogo ininghilterra tra 600 e 800 con una forte concentrazione dei campi aperti (open fields) a favore della diffusione delle proprietà recintate (enclosures)
+Trasformazione dei rapporti di proprietà che ha avuto luogo Inghilterra tra 600 e 800 con una forte concentrazione dei campi aperti (open fields) a favore della diffusione delle proprietà recintate (enclosures)
 
 Tale Processo ha favorito una coltivazione più intensiva della terra
 
 ***
 
-***"Atti Parlamentari di recinzione in inghilterra 1702-1840 e oltre"***
+***"Atti Parlamentari di recinzione in Inghilterra 1702-1840 e oltre"***
 
 ![Englosures](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\Englosures.PNG)
 
@@ -363,20 +363,22 @@ Fondamentale importanza assume in Inghilterra il **commercio internazionale**
 
 ***
 
-*La combinazione di queste innovazioni portò ad un aumento della produzione e alla diminuzione dei costi, diffondendo l'uso del ferro*
-
-![image-20210321221643013](C:\Users\franc\AppData\Roaming\Typora\typora-user-images\image-20210321221643013.png)
+*La combinazione di queste innovazioni portò ad un aumento della produzione e alla diminuzione dei costi, diffondendo l'uso del ferro*, per esempio si va ad incentivare la produzione di ghisa utile alla produzione dell'acciaio.
 
 ***
 
 *La crescita dell'industria fu caratterizzata da un forte aumento della **produttività**, nella quale svolse un ruolo primario **l'innovazione tecnologica***
 
+Innovazione nel settore siderurgico e tessile, l'innovazione tecnologica garantisce alla fabbrica nuove modalità di lavoro per aumentare la produttività.
 
+Fondamentale fu poi lo sfruttamento di una nuova forma di energia inanimata: **il vapore**
 
-Fondamentale fu poi lo sfruttamento di una nuova forma di energia inanimata: il vapore
+> Grazie al vapore posso andare a realizzare l'impianto produttivo dove ci sono i punti di interesse del commercio.
+>
+> Già in antichità classica il vapore era utilizzato per aprire le porte di un tempio
 
-- Pompa di Newcomen 1712
-- Macchina a vapore di James Watt 1769
+- Pompa di Newcomen 1712: dispositivo importante che consentiva di pompare l'acqua dalle miniere inglesi di carbone. Le vene d'acqua passavano solitamente vicino a quelle di carbone. Bisognava utilizzare solitamente la pompa a mano, ora con la pompa di Newcomen era possibile automatizzare il processo.
+- **Macchina a vapore di James Watt 1769**: Watt costruisce un condensatore separato che rende efficiente il macchinario dal punto di vista termino, capace ora di generare molta energia con piccole dimensioni. La macchina a vapore diventa capace di essere utilizzata nei trasporti.
 
 
 
@@ -386,6 +388,8 @@ Fondamentale fu poi lo sfruttamento di una nuova forma di energia inanimata: il 
 
 ##### LA FERROVIA
 
+Fu il risultato finale dell'invenzione della macchina a vapore.
+
 - In gran parte dell'occidente sarebbe stata una delle cause dell'avvio del processo di industrializzazione
 - In Inghilterra segnò piuttosto un punti d'arrivo di un industrializzazione già matura
 
@@ -394,15 +398,15 @@ Fondamentale fu poi lo sfruttamento di una nuova forma di energia inanimata: il 
 *Protagonista del suo avvio fu george Stephenson*
 
 - 1825 progetta la locomotiva per il trasporto tra le miniere di Stockton e Darlington
-- 1830 quella usata per la prima, vera ferrovia da trasporto del mondo: la Liverpool-Manchester
+- 1830 quella usata per la prima, vera ferrovia da trasporto del mondo: la Liverpool-Manchester, Liverpool era un grande porto, manchester era una città industriale piena di fabbriche di produzione.
 
 ***
 
-**Nel 1851 l'esposizione londinese di CrystalPalace mostrò al mondo il livello raggiunto dall'industrializzazione inglese**
+**Nel 1851 l'esposizione londinese di Crystal Palace mostrò al mondo il livello raggiunto dall'industrializzazione inglese**
 
 
 
-A quell'epoca in Inghilterra si producevano:
+A quell'epoca in **Inghilterra si producevano**:
 
 - i due terzi del carbone mondiale
 - circa la metà del ferro
@@ -410,11 +414,13 @@ A quell'epoca in Inghilterra si producevano:
 - circa la metà del tessuto di cotone prodotto industrialmente
 - il 40% di macchinari e attrezzature
 
-Questo processo aveva portato con sè profonde trasformazioni nel modo di vivere e di produrre
+Questo processo aveva portato con sé profonde trasformazioni nel modo di vivere e di produrre
 
 ***
 
 **Tra 1801 e 1851 la popolazione inglese era passata da 10.7 a 20.9 milioni di persone**
+
+Tabella con Ripartizione per attività della popolazione (valori percentuali)
 
 | Attività                        | 1811 | 1841 |
 | ------------------------------- | ---- | ---- |
@@ -428,9 +434,11 @@ Il livello di vita della popolazione migliorò, non mancarono però i ceti socia
 
 ![redditoProcapiteInglese](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\redditoProcapiteInglese.PNG)
 
+IN 50 anni il pil cresce di 2 volte e mezza. Crescita Straordinaria: un cambio di passo che riguarda non solo l'ambito economico ma tutta la società.
+
 ***
 
-### IL lato oscuro della rivoluzione industriale
+### Il lato oscuro della rivoluzione industriale
 
 Le trasformazioni radicali costano infatti ci furono effetti collaterali per la rivoluzione industriale:
 
@@ -439,3 +447,6 @@ Le trasformazioni radicali costano infatti ci furono effetti collaterali per la 
 - Il lavoro sfruttato: bambini e donne
 - Rottura dei legami comunitari e spersonalizzazione del lavoro
 
+Genericamente i tempi di economia e tecnologia e finanza sono tempi minori della giurisdizione per la regolazione di queste ultime attraverso le leggi.
+
+Esiste il problema dell'organizzazione degli spazi abitativi dati dall'immigrazione e dalla sovra popolazione. Le condizioni abitative e di vita degli operai che si riversano in città dalle campagne sono terribili.

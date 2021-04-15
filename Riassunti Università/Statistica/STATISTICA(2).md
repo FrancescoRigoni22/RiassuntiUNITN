@@ -188,18 +188,18 @@ La media aritmetica risulta dal concorso di tutte le N osservazioni individuali 
 
 Esempio:
 
-- 9 individui hanno reddito annuo di €20000
-- 1 individuo ha reddito annuo di €150000
+- 9 individui hanno reddito annuo di €20,000
+- 1 individuo ha reddito annuo di €150,000
 
 $$
-\mu = €33000
+\mu = €33,000
 $$
 
 esso non è assolutamente un valore rappresentativo nel del ceto medio basso ne degli abbienti!
 
-<hr>
+***
 
-**LA MEDIANA**
+### La Mediana
 
 Essa è una modalità che dipende dall'ordine delle osservazioni e non dal loro valore (quindi può essere calcolata per qualsiasi carattere ordinato).
 
@@ -214,9 +214,7 @@ La mediana quindi bipartisce i dati in minori e maggiori.
 
 <hr>
 
-La mediana funziona diversamente a seconda del numero di elementi dello studio:
-
-​	
+La mediana funziona diversamente a seconda del numero di elementi dello studio:	
 
 Per N dispari la mediana occupa il posto
 $$

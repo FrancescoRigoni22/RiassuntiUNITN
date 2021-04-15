@@ -278,6 +278,8 @@ $(x_i - \mu_x)(y_i-\mu_Y)$
 
 ---
 
+### Esempio del Calcolo dell'Indice di Correlazione
+
 Per esempio prendiamo una tabella di dati con una distribuzione bivariata.
 
 ![tabellabivariatafrequenze](C:\Users\franc\Desktop\Riassunti Università\Immagini\tabellabivariatafrequenze.PNG)
@@ -298,7 +300,7 @@ $$
 r = \frac{\sigma_{XY}}{\sigma_x\sigma_y} = \frac{3.2}{2*4} = 0.4
 $$
 
-Di conseguenza. R misura la tendenza dei dati a raggrupparsi non in termini assoluti ma relativi!
+Di conseguenza R misura la tendenza dei dati a raggrupparsi non in termini assoluti ma relativi!
 $$
 r = \frac{1}{N}\sum_i(\frac{x_i-\mu_X}{\sigma_X})(\frac{y_i - \mu_Y}{\sigma_Y})
 $$
@@ -323,7 +325,7 @@ A volte r può essere una misura fuorviante e non opportuna:
 - quando ci sono outlier
 - quando c'è una relazione non lineare
 
-**A quel punto non è un coefficente idi correlazione lineare**
+**A quel punto non è un coefficiente di correlazione lineare**
 
 ***
 
@@ -331,7 +333,7 @@ A volte r può essere una misura fuorviante e non opportuna:
 
 ![ParadossoDiAscombe](C:\Users\franc\Desktop\Riassunti Università\Immagini\ParadossoDiAscombe.PNG)
 
-Escludo tutti tranne il primo perchè y non è correlato a x, quindi non è una distribuzione a ovale obliquo
+Escludo tutti tranne il primo perché y non è correlato a x, quindi non è una distribuzione a ovale obliquo
 
 ***
 
@@ -370,7 +372,7 @@ Esempio:
 
 Perché?
 
-Perchè in ogni regione c'è una notevole variabilità attorno alla media...
+Perché in ogni regione c'è una notevole variabilità attorno alla media...
 
 ...dispersione che eliminiamo associando ad ogni regione le sua media!
 

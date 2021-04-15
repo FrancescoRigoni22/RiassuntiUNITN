@@ -6,19 +6,21 @@
 
 # SVILUPPO ECONOMICO DELL'EUROPA D'ANCIEN REGIME
 
-AGRICOLTURA: predomina sia in termini di reddito prodotto che di forza lavoro occupata.
+**AGRICOLTURA**: predomina sia in termini di reddito prodotto che di forza lavoro occupata.
 
-Feudalesimo nasce tra il VIII e il IX secolo dopo l'impero romano. 
+> Feudalesimo nasce tra il VIII e il IX secolo dopo l'impero romano. 
 
 Sistema in cui il re delega il territorio ad una famiglia locale.
 
-Io re demando una parte della gestione del mio potere esecutivo ad un signore locale che in cambio di questa mi offre la sua fedeltà, il pagamento delle tasse e la promessa di entrare in guerra nel caso ce ne fosse bisogno.
+Io re demando una parte della gestione del mio potere esecutivo ad un signore locale che in cambio di questa mi offre:
 
-I signori locali possedevano le terre, e chi viveva nel feudo doveva sottoponersi alle regole del signore perchè erano propriamente proprietà del feudatario.
+- la sua fedeltà
+- il pagamento delle tasse 
+- la promessa di entrare in guerra nel caso ce ne fosse bisogno.
 
-E' un sistema fortemente asimmetrico, con una posizione di subordinazione da parte delle famiglie contadine ma forte potere da parte dei feudatari. Nonostante questo sbilanciamento di potere c'era una forte nazionalità politica.
+I signori locali possedevano le terre, e chi viveva nel feudo doveva sottoporsi alle regole del signore perché erano proprietà del feudatario.
 
-Succede che nel momento in cui mi trovo che la mia incolumità personale va ad essere messa in pericolo allora vado a cedere le mie libertà per la sicurezza personale.
+E' un sistema fortemente asimmetrico, con una posizione di subordinazione da parte delle famiglie contadine ma forte potere da parte dei feudatari. Nonostante questo sbilanciamento di potere c'era una forte nazionalità politica. Succede infatti che nel momento in cui  trovo la mia incolumità personale in pericolo allora vado a cedere le mie libertà per la sicurezza.
 
 Il patto con il feudatario per i cittadini sottoposti era un patto di fedeltà per la difesa militare.
 
@@ -26,7 +28,9 @@ Sistema con relazioni di mercato limitate. Le produzioni erano destinate ad esse
 
 Questo sistema politico ed economico per quanto molto lontani dalla nostra idea di società ed economia sono particolari, e in qualche modo riesce a sopravvivere per diversi secoli.
 
-Il sistema curtense
+***
+
+**Il sistema curtense**
 
 Sistema funzionale in un periodo caratterizzato da:
 
@@ -43,9 +47,9 @@ Sistema funzionale in un periodo caratterizzato da:
 
 Una comunità rurale che vive di agricoltura.
 
-Al centro c'era la PARS DOMINICA (PARTE DEL SIGNORE) territori di diretta competenza del signore feudale, che viveva al centro del villaggio in una grossa casa fortificata anche in legno. Nel tempo si evolve nella forma del castello.
+Al centro c'era la **PARS DOMINICA (PARTE DEL SIGNORE)** territori di diretta competenza del signore feudale, che viveva al centro del villaggio in una grossa casa fortificata anche in legno. Nel tempo si evolve nella forma del castello.
 
-Intorno a questo c'erano dei villaggi abitati dai contadini PARS MASSARICIA, di competenza del signore ma assegnata ai coloni che vivevano nei villaggi, essi coltivavano nelle parti bianche. Intorno c'erano boschi e pascoli che venivano sfruttati comunitariamente.
+Intorno a questo c'erano dei villaggi abitati dai contadini **PARS MASSARICIA**, di competenza del signore ma assegnata ai coloni che vivevano nei villaggi, essi coltivavano nelle parti bianche. Intorno c'erano boschi e pascoli che venivano sfruttati comunitariamente.
 
 C'erano regole sulla caccia e sul pascolo.
 
@@ -95,7 +99,7 @@ Entro il 1400 quindi 1/3 della popolazione europea viene DILANIATA dalla peste.
 
 Alla fine c'è una graduale ripresa, a fine 1500 il recupero è completato; gli effetti sul costo dei fattori di produzione.
 
-Prima dello scoppio della peste, l'abbondanza di popolazione rispetto alle terre, gli stipendi dei lavoratori dell'epoca erano più bassi di quelli della terra. All'arrivo della peste nera il lavoro diventò scarso perchp le persone erano morte. In un qualche modo i ceti aristocratici iniziano ad indebolirsi 
+Prima dello scoppio della peste, l'abbondanza di popolazione rispetto alle terre, gli stipendi dei lavoratori dell'epoca erano più bassi di quelli della terra. All'arrivo della peste nera il lavoro diventò scarso perché le persone erano morte. In un qualche modo i ceti aristocratici iniziano ad indebolirsi 
 
 ![310px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg](C:\Users\franc\Desktop\Riassunti Università\StoriaSistemiEconomici\IMMAGINISTORIA\310px-1346-1353_spread_of_the_Black_Death_in_Europe_map.svg.png)
 
@@ -150,7 +154,7 @@ La commenda ha come fine il commercio via mare. Un commendatore da le merci ad u
 
 - Corporazioni, gilde, universitates: funzioni economiche, politiche e sociali
 - Corporazioni e imprese
-- Ecnomia:
+- Economia:
   - Ridurre i costi di transazione
   - Formazione e qualità
   - I limiti: concorrenza e innovazione (modello statico)
@@ -164,9 +168,9 @@ Le associazioni di mestieri nascevano per fare un club di ogni mestiere:
 - si iniziava con un apprendistato in una bottega
 - raggiunta un autorità nel lavoro potevo diventare un maestro vero e proprio.
 
-QUal'è la logica economica delle corporazioni?
+Qual'è la logica economica delle corporazioni?
 
-La logica delle corporaizoni è quella di ridurre i costi di transazioni facilitando i contratti che si potevano stipulare costruendo unos tandar per lo svolgimento di organizzazioni e attività lavorative generali. Esse garantivano la qualità di un prodotto. I prodotti che dovevano uscire da un determinato settore erano certificate dalle corporazioni.
+La logica delle corporazioni è quella di ridurre i costi di transazioni facilitando i contratti che si potevano stipulare costruendo uno standard per lo svolgimento di organizzazioni e attività lavorative generali. Esse garantivano la qualità di un prodotto. I prodotti che dovevano uscire da un determinato settore erano certificate dalle corporazioni.
 
 So che se compro un tessuto di lana fiorentino era certificata dalle corporazioni la qualità del prodotto. Ogni corporazione aveva il proprio santo patrono e le chiese delle città aveva un santo patrono della corporazione, erano infatti degli istituti che fornivano dei servizi di welfare per i loro membri
 
@@ -198,7 +202,7 @@ Elemento complesso che ha significato culturale. La vita delle persone non è pi
 
 *****
 
-In epoca medevale c'era quindi l'ingegnosità di inventare nuove macchine. Alcuni dei principi erano noti già nell'età classica ma prendono attuazione sono durante il medioevo. IN età classica però c'era il lavoro schiavile che costava poco e nel medioevo si sostituisce con le macchine.
+In epoca medievale c'era quindi l'ingegnosità di inventare nuove macchine. Alcuni dei principi erano noti già nell'età classica ma prendono attuazione sono durante il medioevo. In età classica però c'era il lavoro schiavile che costava poco e nel medioevo si sostituisce con le macchine.
 
 *****
 
@@ -265,7 +269,7 @@ Con il crescere della produzione crescono le eccedenze che dovevano essere vendu
 
 ### L'industria prima dell'industrializzazione
 
-Nasce una domanda di beni diversi più semplici del modno rurale, cambia l'offerta di lavoro e di oggetti.
+Nasce una domanda di beni diversi più semplici del mondo rurale, cambia l'offerta di lavoro e di oggetti.
 
 
 

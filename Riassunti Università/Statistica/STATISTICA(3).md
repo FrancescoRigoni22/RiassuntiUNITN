@@ -1,4 +1,4 @@
-STATISTICA (3)
+# STATISTICA (3)
 
 
 
@@ -58,7 +58,7 @@ Una misura di variabilità:
 
 Si constata che i caratteri tendono a differire tra i singoli secondo una legge.
 
-<hr>
+
 
 24 secoli dopo Quetelet trasformerà una formula matematica.
 
@@ -89,11 +89,11 @@ $$
 
 ![RENDIMENTIBASSORISCHIO](C:\Users\franc\Desktop\Riassunti Università\Immagini\RENDIMENTIBASSORISCHIO.PNG)
 
-- NON è conveniente utilizzarlo perchè con dati estremi andiamo a prenderli entrambi.
+- NON è conveniente utilizzarlo perché con dati estremi andiamo a prenderli entrambi.
 
 - NON è conveniente utilizzarlo perché andiamo a calcolare il range in base a 2 unici valori
 
-## RANGE INTERQUARTILICO (IQR) // DIFFERENZA INTERQUARTILE
+### RANGE INTERQUARTILICO (IQR) // DIFFERENZA INTERQUARTILE
 
 $$
 Q3 - Q1
@@ -103,7 +103,7 @@ E' il range entro il quale cadono il 50% dei casi "normali" (vicini alla tendenz
 
 E' Più robusta del RANGE.
 
-## LA VARIANZA
+### LA VARIANZA
 
 Ci interessa di più un **indicatore che misuri la dispersione delle xi attorno ad un valore medio**.
 
@@ -144,8 +144,7 @@ $$
 $$
 
 <hr>
-
-ESEMPIO NUMERICO: Precipitazione in mm a Roma (stazione Roma-Urbe)
+**ESEMPIO NUMERICO**: Precipitazione in mm a Roma (stazione Roma-Urbe)
 
 Distribuzione per dati grezzi per carattere continuo.
 
@@ -179,11 +178,13 @@ $$
 
 Mediamente, nei sette anni considerati, e le precipitazioni differiscono dalla precipitazione media annua di 160.2mm.
 
-<hr>
+***
+
 ## Un altra formula per il calcolo della varianza
 
 Nella Pratica il calcolo della varianza si effettua spesso con la seguente formula:
 
+***"Media dei Quadrati meno Quadrato della Media"***
 
 $$
 \sigma^2 = \frac{\sum_{i=1}^{N}x_i^2}{N} - \mu^2
@@ -250,6 +251,11 @@ $$
 La varianza di Y sarà quindi:
 $$
 \sigma_Y^2 = b^2 * \sigma_X^2
+$$
+
+Se invece andiamo a considerare le trasformazioni lineari nell'ambito dello Scarto quadratico medio allora possiamo scrivere come formula:
+$$
+\sigma_Y = b * \sigma_X
 $$
 
 *****
@@ -323,7 +329,7 @@ Peso kg
 Adulti:
 $$
 \mu = 75kg
-\\ \sigma = 4kg
+\\\sigma = 4kg
 $$
 Neonati
 $$
@@ -498,7 +504,6 @@ Il maggiore  o minore "appuntimento" e il peso più o meno accentuato delle code
 
 **CURTOSI**
 
-*****
 
 $$
 \beta > 3

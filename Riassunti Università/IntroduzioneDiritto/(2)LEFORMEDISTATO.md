@@ -389,7 +389,7 @@ La diffusione di questo tipo di forma di stato è avvenuta attraverso vari **CIC
 
 Nel XXI Secolo:
 
-- Cina e Cuba Mantengono un ostato socialista
+- Cina e Cuba Mantengono uno stato socialista
 - Insiste, Si accenna alla presidenza Trump per fare un esempio, a una **regressione democratica** con politiche populiste.
 
 ## CARATTERISTICHE DI UNO STATO PLURALISTA
@@ -450,8 +450,13 @@ Il **COMPROMESSO Costituzionale** è fatto tra TUTTI i membri di uno **stato plu
 
 ## GARANZIE RIGIDITA' COSTITUZIONALE
 
-- Controllo della Costituzionalità delle leggi: La legge deve RISPETTARE la costituzione. Nello stato liberale la costituzione era flessibile e il parlamento non poteva essere messo in discussione.
-- Presenza di procedure specifiche per la Revisione Costituzionale: non identiche alla revisione di una legge. Nello statuto albertino una legge può modificare la costituzione
+- **Controllo della Costituzionalità delle leggi**: La legge deve RISPETTARE la costituzione. 
+
+  > Nello stato liberale la costituzione era flessibile e il parlamento non poteva essere messo in discussione.
+
+- Presenza di procedure specifiche per la **Revisione Costituzionale**: non identiche alla revisione di una legge. 
+
+  > Nello statuto albertino una legge può modificare la costituzione
 
 
 
@@ -475,11 +480,11 @@ Lo Stato sociale è quello stato che ha come fine l'uguaglianza sociale sostanzi
 
 ## CARATTERISTICHE DELLO STATO DECENTRATO
 
-Distribuzione di quote di potere a organi infrastatali.
+Distribuzione di quote di potere a organi infra-statali.
 
 STATO REGIONALE
 
-1861: Nascita Italia: Potere accentrato e stato regionale in minoranza.
+1861: Nascita Italia: Potere accentrato e stato regi onale in minoranza.
 
 Nel secondo dopoguerra si volevano soddisfare le richiese di autonomia di alcuni regni.
 

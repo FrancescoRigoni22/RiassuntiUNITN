@@ -87,7 +87,7 @@ Esistono anche delle garanzie nella rigidità della costituzione, contenute nel 
 
 Per proprietà appunta della Costituzione il processo di modifica è limitato.
 
-![revisione_costituzionale](C:\Users\franc\Desktop\RiassuntiUNITN\Riassunti Università\IntroduzioneDiritto\IMMAGINIDIRITTO\revisione_costituzionale.png)
+![revisione_costituzionale](C:\Users\franc\Desktop\Riassunti Università\IntroduzioneDiritto\IMMAGINIDIRITTO\revisione_costituzionale.png)
 
 
 
@@ -622,5 +622,148 @@ Una delle più frequenti applicazione trova luogo nei **codici**, che contengono
 
 I testi unici possono essere:
 
-- **meramente compilativi**: si limitano a raccogliere in un unico testo il complesso dele disposizioni vigenti su un oggetto, diventa una sorta di memorandum su fnti vigenti
+- **meramente compilativi**: si limitano a raccogliere in un unico testo il complesso delle disposizioni vigenti su un oggetto, diventa una sorta di memorandum su fonti vigenti
 - **Normativi**: armonizzano la legislazione con nuove disposizioni o attraverso la modifica di quelle esistenti. 
+
+***
+
+## DECRETO LEGGE
+
+Articolo 77 Costituzione il fondamento del potere governativo deriva direttamente dal fatto ce si sia venuta a creare una situazione di straordinaria necessità ed urgenza.
+
+il ***DECRETO LEGGE*** è un atto del Governo con forza di legge, adottato in casi straordinari di necessità e urgenza.
+
+La Costituzione consente al governo di alterare l'orine normale dei poteri adottando **provvedimenti provvisori con forza di legge**, il governo attua questi provvedimenti mettendo in gioco la propria responsabilità.
+
+Nel caso in cui accadano queste situazioni di necessità ed urgenza, il Governo *nello stesso giorno in cui il decreto-legge è emanato* ha l'obbligo di trasmetterlo alle Camere chiedendone la **conversione in legge**.
+
+Se la legge viene pubblicata sulla Gazzetta ufficiale allora le Camere sono costrette a fare la conversione in legge entro 60 giorni.
+
+Il dreto legge diventa quindi un **disegno di legge di conversione**, essa ha l'effetto di ripristinare il normale ordine costituzionale per mezzo di una sostituzione della fonte: convertita il decreto legge diventa a tutti gli effetti una legge ordinaria.
+
+> Il decreto legge quindi è una bomba ad orologeria di 60 giorni che o Esplode risultando in niente o esplode lasciando come resti un nuova legge ordinaria.
+
+Se non ci sono i presupposti necessarie a far partire il processo di creazione del decreto legge da parte del governo allora il decreto legge come la legge ordinaria creata successivamente viene dichiarato incostituzionale.
+
+Se il decreto legge non è convertito per il voto contrario dei 2 rami del Parlamento o per decorrenza del termine di 60 giorni esso perde i suoi effetti anche retroattivamente.
+
+l'art 77 prevede anche che le Camere possano regolare con legge i rapporti giuridici sorti per decreti non convertiti, dando vita alla **sanatoria**, ha il compito di salvare gli effetti prodotti dal decreto decaduto salvando il Governo dalla Responsabilità.
+
+**Emendamenti** durante il percorso parlamentare di conversione, effettuati dal parlamento sempre nella medesima fase, solitamente il Parlamento produce diversi e numerosi cambiamenti al decreto legge prima dell'approvazione.
+
+IL versante della reiterazione, ovvero il ripresentarsi dello stesso decreto per la decadenza dei 60 giorni di quello vecchio.
+
+
+
+## Referendum Abrogativo
+
+Previsto dall'articolo 75 della Costituzione è un istituto attraverso il quale il corpo elettorale è chiamato a pronunciarsi direttamente circa "l'abrogazione totale o parziale di una legge o di un atto avente valore di legge" dello Stato.
+
+L'istituto dell'abrogazione è tra le fonti primarie perché muta l'intero ordinamento.
+
+In particolare l'approvazione della legge sul referendum fu incoraggiata dalla discussione sulla legge sul divorzio.
+
+Oggetto del referendum abrogativo possono essere leggi e atti con forza di legge dello Stato
+
+il **procedimento referendario** si articola in varie fasi:
+
+- **L'iniziativa** spetta a 
+
+  - 5 consigli regionali
+  - 500.000 elettori.
+
+  IN quest'ultimo caso deve formarsi un comitato promotore, composto da non meno di 10 cittadini. La richiesta deve essere depositata presso un apposito ufficio della Corte di cassazione entro il 30 settembre di ogni anno.
+
+- L'Ufficio centrale per il referendum effettua un **controllo sulla legittimità** delle richieste.
+
+  > Se l'Ufficio rileva delle irregolarità allora assegna un termine per sanare le problematiche del disegno del referendum, l'ufficio decide, dopo la vidimazione del decreto entro il 15 dicembre decide con ordinanza definitiva la validità del referendum.
+
+- La Corte costituzionale giudica **l'ammissibilità delle richieste legittime** con sentenza entro il 10 febbraio.
+
+- Se le richieste sono ammesse, il Presidente della Repubblica  **indice il referendum** fissando la data della violazione in una domenica tra il 15 aprile e il 15 giugno.
+
+- **2 quorum**; uno di partecipazione o strutturale, uno circa l'esito
+
+- **Nel caso di abrogazione essa è dichiarata dal presidente della Repubblica con un decreto;** conseguenza dell'abrogazione referendaria è che il Parlamento non può approvare una disciplina che sia sostanzialmente riproduttiva di quella abrogata se non è intervenuto alcun mutamento
+
+
+
+## Regolamenti dell'Esecutivo
+
+
+
+***I regolamenti governativi*** sono fonti secondarie con le quali il Governo nel rispetto delle fonti primarie pone regole di carattere sostanziale, organizzativo, procedurale oppure provvede a disporre quanto necessario per dare attuazione ed esecuzione alle leggi.
+
+Le leggi del Parlamento spesso per poter essere applicate necessitano di altre regole che specifichino come concretamente si può dare loro attuazione, per fare ciò esistono i regolamenti.
+
+Vanno distinti 2 tipi di regolamento:
+
+- **regolamento governativo**: deliberati dal Consiglio dei ministri ed emanati con decreto del Presidente della Repubblica
+- **regolamento ministeriale e interministeriale**: emanati dal singolo ministro o di concerto con uno o più ministri, questi devono rispettare i primi.
+  - DCPM emanati specificatamente dal Presidente del consiglio
+
+Dal punto di ista del contenuto dei regolamenti governativi:
+
+- **regolamenti d'esecuzione**
+  - esecuzione delle leggi
+  - esecuzione dei decreti legislativi
+  - esecuzione dei regolamenti dell'unione Europea 
+  
+- **regolamenti di attuazione**
+  
+  > Vanno a disciplinare l'esecuzione di una legge che è stata fatta spontaneamente in modo generico
+  
+  - Attuazione e integrazione delle leggi
+  - Attuazione e integrazione dei decreti legislativi recanti norme di principio
+  
+- **regolamenti di organizzazione**
+  
+  - Organizzazione e funzionamento delle amministrazioni pubbliche secondo le disposizioni dettate dalla legge, regolano infatti i pubblici impieghi
+  
+- **regolamenti indipendenti**
+  
+  > Regolamenti Indipendenti dalla legge
+  
+  - materie non riservate alla legge e non disciplinate da leggi o atti con forza di legge;
+
+
+
+**REGOLAMENTI DI DELEGIFICAZIONE**
+
+Ai regolamenti previsti dall'articolo 17 comma 2 spetta il compito della **delegificazione**: istituto mediante il quale 
+
+- legge attribuisce al potere regolamentare del Governo il compito di regolare una certa materia, già oggetto di disciplina da parte di una precedente legge 
+- legge dispone l'abrogazione di tale disciplina precedente a decorrere dall'entrata in vigore dei regolamenti di delegificazione
+
+> voglio passare da una disciplina legislativa ad una disciplina regolamentare. er fare ciò prevedo una legge che da un lato conferisce al governo la potestà parlamentare e al contempo abroga la prima legge
+>
+> Si risolve il problema del vuoto parziale legislativo con l'abrogazione differita della legge 2 (quella per abrogare la legge1 e per fissare la validità del regolamento)
+
+## Fonti regionali e Locali
+
+L'Italia è uno stato regionale e le Repubblica riconosce e promuove le autonomie locali
+
+> ART 114
+>
+> La Repubblica è costituita dai comuni, dalle Provincie, dalle città metropolitane, dalle Regioni e dallo Stato.
+
+Le Disposizioni nel titolo 5° della costituzioni attribuiscono alle regioni competenze normative
+
+> Le competenze delle regioni a statuto speciali vengono determinate nei rispettivi statuti.
+
+In particolare l'art 123 prevede la necessità per le regioni di uno **statuto.**
+
+Lo **statuto** è una fonte primaria del diritto con cui la regione disciplina rilevanti aspetti della sua organizzazione e struttura interna: forma di governo, principi fondamentali di organizzazione e funzionamento, diritto di iniziativa e referendum su leggi e provvedimenti amministrativi della regione e pubblicazione di leggi e regolamenti regionali.
+
+Lo statuto può essere definito come *"Una piccola costituzione regionale"*
+
+Le regioni hanno **potestà legislativa** in base all'articolo 117 della costituzione si chiarificano le materie di competenza legislativa dello Stato, quelle di legislazione concorrente le regioni possiedono la potestà legislativa in riferimento ad ogni materia non espressamente riservata alla legislazione dello Stato. Vale a dire la competenza legislative residuale.
+
+Più specificatamente:
+
+- Per **competenza legislativa esclusiva statale** si intende quell'insieme di materie in cui il soggetto legittimato a porre le fonti legislative nel rispetto della Costituzione è lo Stato. Le materie di competenza sono interessi unitari che non possono essere frazionati tra i vari enti regionali (politica estera, immigrazione, rapporti con le confessioni religiose, moneta)
+- Per **competenza legislativa concorrente** quell'insieme di materie in cui i soggetti legittimati a porre le fonti legislative sono 2: Stato e regioni.
+  Spetta alle regioni la potestà legislativa di Dettaglio, allo stato spetta la determinazione dei principi fondamentali. Le materie sono di settori come (commercio estero, tutela sul lavoro, governo del territorio)
+- Per **competenza legislativa residuale**: materie non comprese negli elenchi di secondo e terzo comma dell'art 117.
+
+La Corte Costituzionale è chiamata a controllare ai sensi dell'art 127 la costituzionalità delle leggi statali e regionali.

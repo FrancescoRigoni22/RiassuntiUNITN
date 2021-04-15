@@ -4,11 +4,9 @@
 
 
 
-*"una collinetta"*
+**"Come si producono le regole giuridiche?"**
 
-Il Capitolo rispende ad una domanda: **"Come si producono le regole giuridiche?"**
-
-Chiamano convenzionalmente **Fonti del diritto **(o fonti normative) quei "meccanismi" che pongono in essere regole giuridiche. E quindi abilitato dall'ordinamento a produrre norme giuridiche..
+Chiamano convenzionalmente **Fonti del diritto **(o fonti normative) quei "meccanismi" che pongono in essere regole giuridiche. E quindi abilitato dall'ordinamento a produrre norme giuridiche.
 
 >  Il termine Fonti del diritto deriva direttamente dal termine fonte, ovvero le fonti da cui sgorgano le norme giuridiche. E' il meccanismo attraverso cui vengono prodotte le norme giuridiche
 
@@ -16,12 +14,12 @@ Chiamano convenzionalmente **Fonti del diritto **(o fonti normative) quei "mecca
 
 
 
-Ogni ordinamento decide atti e fatti che vanno a costituire il diritto.
+***Ogni ordinamento decide atti e fatti che vanno a costituire il diritto***.
 
-Perché delle regole devono essere fonte del diritto bisogna seguire un certo procedimento, ordinamento scritto nelle norme sulla normazione.
+Bisogna seguire un certo procedimento scritto nelle norme sulla normazione.
 
-- **FONTI DI PRODUZIONE** giuridica, fonti che appunto, istituiscono nuove regole di comportamento o regole di organizzazione che tutti debbono osservare
-- **FONTI SULLA PRODUZIONE** giuridica, che sono i meccanismi attraverso i quali si producono le fonti di produzione
+- **FONTI DI PRODUZIONE GIURIDICA** fonti che appunto, istituiscono nuove regole di comportamento o regole di organizzazione che tutti debbono osservare
+- **FONTI SULLA PRODUZIONE** (sulle norme di produzione) giuridica, che sono i meccanismi attraverso i quali si producono le fonti di produzione
 
 > Una **FONTE DI PRODUZIONE** è la legge che obbliga tutti a pagare una certa imposta, la fonte sulla produzione è quella che prevede come debba essere approvata quella legge (con che prodceduta, quali maggioranze, controlli, pubblciità)
 
@@ -48,21 +46,21 @@ Questo perché hanno preso importanza i **Trattati internazionali** e le **norme
 
 **ANTINOMIE**: contraddizioni normative.
 
-Prima di tutto un sistema giuridico che voglia essere razionale deve in ogni modo evitare questo tipo di situazione, ma come fare ad evitare che questo si verifichi?
+> Prima di tutto un sistema giuridico che voglia essere razionale deve in ogni modo evitare questo tipo di situazione, ma come fare ad evitare che questo si verifichi?
 
 Detto in altri termini, cosa fa sì che un insieme di regole giuridiche diventa un vero sistema giuridico, ovverosia un insieme ordinato di regole giuridiche, una forma di organizzazione sociale, come abbiamo illustrato nel capitolo I?
 
-**"*Un insieme p ordinato se esistono dei criteri per risolvere i conflitti logici e strutturali che si pongono al suo interno*"**
+**"*Un insieme è ordinato se esistono dei criteri per risolvere i conflitti logici e strutturali che si pongono al suo interno*"**
 
 *****
 
 La scienza giuridica ha elaborato alcuni criteri per risolvere le antinomie normative.
 
 - 3 criteri ordinatori delle fonti
-  - Criterio della gerarchia
-  - Criterio della competenza
-  - Criterio Cronologico
-- Istituto della Deroga e dell'Abrogazione
+  - **Criterio della gerarchia**
+  - **Criterio della competenza**
+  - **Criterio Cronologico**
+- **Istituto della Deroga e dell'Abrogazione**
 
 *****
 
